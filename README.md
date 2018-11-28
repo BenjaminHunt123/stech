@@ -1,2 +1,0 @@
-# stech
-Added later
